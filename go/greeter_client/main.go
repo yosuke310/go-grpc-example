@@ -6,7 +6,8 @@ import (
 	"os"
 	"time"
 
-	pb "../lib"
+	pb "helloworld"
+
 	"google.golang.org/grpc"
 )
 

@@ -5,7 +5,8 @@ import (
 	"log"
 	"net"
 
-	pb "../lib"
+	pb "helloworld"
+
 	"google.golang.org/grpc"
 )
 
