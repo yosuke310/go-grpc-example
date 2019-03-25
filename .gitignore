@@ -1,0 +1,3 @@
+ruby/.bundle
+ruby/vendor
+ruby/Gemfile.lock
